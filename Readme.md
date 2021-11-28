@@ -15,6 +15,6 @@ For dataset we used a transistor example with 2 features.
 [0,1]
 [1,0]
 [1,1]
-,where if both features are 1 the result is 1 else if not.
+,where if both features are 1 the result is 1 else 0.
 
 At the end the model draws a plot with points and the line that separates both classes.
