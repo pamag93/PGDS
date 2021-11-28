@@ -1,4 +1,3 @@
-Python version: >3.6
 External Packages: numpy, matplotlib
 Last update: 28th Nov 2021
 Authors: Paulo Magalhães, Pedro Silva
